@@ -6,7 +6,8 @@ A research work on Bengali Fake news detection through summarization and augment
 3) Model training folder contains all the code for training models. for details, please read our paper. 
 4) Tools folder contains code for augmentation and summarization. It also contains code for alternate line truncation which may be useful for some people.
 
-
+Banfakenews dataset: https://www.kaggle.com/datasets/cryptexcode/banfakenews
+English fake news dataset: https://www.kaggle.com/datasets/jainpooja/fake-news-detection
 
 
 
