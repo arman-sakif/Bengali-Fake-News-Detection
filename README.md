@@ -8,10 +8,10 @@ A research work on Bengali Fake news detection through summarization and augment
 
 Each folder contains their own readme texts. Please read them.
 
-
 Link of existing datasets used in our research:
 ----------------------------------------------------------------------------------------
 Banfakenews dataset: https://www.kaggle.com/datasets/cryptexcode/banfakenews
+
 English fake news dataset: https://www.kaggle.com/datasets/jainpooja/fake-news-detection
 
 
