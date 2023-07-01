@@ -1,8 +1,6 @@
 This directory contains Test Datasets
-There are four test datasets.
-1) Test DS1 contains 650 fake and equal number of authentic news, a total of 1300 testing samples. This test dataset contains augmented data and fake/real data 
-from banfakenews.
-2) Test DS2 contains 600 fake and same number of authentic news, in total 1200 testing instances. Testing samples contains translated data and 
+There are three test datasets.
+2) Test DS1 contains 600 fake and same number of authentic news, in total 1200 testing instances. Testing samples contains translated data and 
 data from banfakenews.
-3) Test DS3 contains 2000 translated fake news articles along with equal number of real news from banfakenews.
-4) Test DS4 contains 102 fake news and equal number of authentic news. This DS is created by us and containst most recent data (2021-2023).
+3) Test DS2 contains 2000 translated fake news articles along with equal number of real news from banfakenews.
+4) Test DS3 contains 102 fake news and equal number of authentic news. This DS is created by us and containst most recent data (2021-2023).
