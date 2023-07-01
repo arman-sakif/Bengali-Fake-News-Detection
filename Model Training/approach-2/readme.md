@@ -1,1 +1,1 @@
-Approach 1 with summerization. We also call it model summarized train or simply modsum_train. 
+Approach 2 is where we utilized summerization.
