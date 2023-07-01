@@ -8,8 +8,5 @@ A research work on Bengali Fake news detection through summarization and augment
 
 
 
-Acknowledgment:
-BERT fine tune tutorial: https://mccormickml.com/2019/07/22/BERT-fine-tuning/
-bangla augmentation: https://github.com/sagorbrur/bnaug
-nlp aug: https://github.com/makcedward/nlpaug
+
 
