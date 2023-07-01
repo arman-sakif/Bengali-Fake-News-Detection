@@ -1,1 +1,1 @@
-Approach 3 with summarization or sum_augx2
+In approach 4 we used summarized augmented dataset
