@@ -1,4 +1,4 @@
-# Tackling Fake News in Bengali: Unraveling the Impact of Summarization vs. Augmentation on Pre-trained Language Models
+# Bengali Fake News Detection
 A research work on Bengali Fake news detection through summarization and augmentation using pre trained BERT models. This repository contains all the codes we used in our research
 
 1) Datasets-Test folder contains all the 3 test datasets we used in our research. 
