@@ -1,1 +1,12 @@
 This directory contains Training Datasets. 3 files are larger than 25mb. They are uploaded in release as binaries.
+
+
+There are 2 training datasets. 
+
+1) Training DS1: 
+    -train.csv
+    -new_modelsum_train (summarized training DS1
+
+2) Training DS2:
+    -aug_train_augx2_cbuet_para.csv
+    -sum_aug_train_augx2_cbuet_para.csv (summarized training DS2)
