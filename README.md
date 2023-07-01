@@ -14,5 +14,8 @@ Banfakenews dataset: https://www.kaggle.com/datasets/cryptexcode/banfakenews
 
 English fake news dataset: https://www.kaggle.com/datasets/jainpooja/fake-news-detection
 
+Model weights and Huggingface Model Card:
+----------------------------------------------------------------------------------------
+All the model weights and huggingface model cards will be uploaded upon acceptance of the paper.
 
 
