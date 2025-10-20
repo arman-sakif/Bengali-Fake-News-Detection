@@ -1,5 +1,7 @@
 # Bengali Fake News Detection
-A research work on Bengali Fake news detection through summarization and augmentation using pre trained BERT models. This repository contains all the codes we used in our research
+A published research work on Bengali Fake news detection through summarization and augmentation using pre trained BERT models. This repository contains all the codes we used in our research.
+
+SN Comp. Sci. Journal Link: https://link.springer.com/article/10.1007/s42979-025-04398-z
 
 1) **Datasets-Test** folder contains all the 3 test datasets we used in our research. 
 2) **Datasets-Train** contains 4 files for two training datasets (without and with summarization). 
@@ -16,6 +18,6 @@ English fake news dataset: https://www.kaggle.com/datasets/jainpooja/fake-news-d
 
 Model weights and Huggingface Model Card:
 ----------------------------------------------------------------------------------------
-All the model weights and huggingface model cards will be uploaded upon acceptance of the paper.
+[Huggingface link.](https://huggingface.co/armansakif/bengali-fake-news)
 
 
